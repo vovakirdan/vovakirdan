@@ -11,6 +11,10 @@
 
 ## 🔧 Tech Stack & Interests
 
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
 - **Languages:** Go, Python, C, Rust, TypeScript, Bash
 - **Backend:** gRPC, WebSockets, FastAPI, PostgreSQL, SQLite, Prometheus
 - **Frontend**: React (TypeScript), Tauri

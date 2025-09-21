@@ -9,8 +9,16 @@
 ## 📫 Contact Me
 
 <p align="center">
-<a href="https://t.me/vladimirkirdan"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="mailto:vladimir.kirdan@bk.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/vladimirkirdan">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="mailto:vladimir.kirdan@bk.ru">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+<p align="center">
+  <b>Email:</b> vladimir.kirdan@bk.ru <br/>
+  <sub>(Если кнопка "Email" не работает, просто скопируйте адрес вручную)</sub>
 </p>
 
 ---

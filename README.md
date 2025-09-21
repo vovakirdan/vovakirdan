@@ -18,7 +18,7 @@
 </p>
 <p align="center">
   <b>Email:</b> vladimir.kirdan@bk.ru <br/>
-  <sub>(Если кнопка "Email" не работает, просто скопируйте адрес вручную)</sub>
+  <sub>(If button "Email" doesn't work, just copy the address manually)</sub>
 </p>
 
 ---
